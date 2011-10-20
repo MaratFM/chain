@@ -1,0 +1,1 @@
+-define(MAX_CHAINS, 10).
